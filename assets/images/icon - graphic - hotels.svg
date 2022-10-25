@@ -1,0 +1,33 @@
+<svg id="icon_graphic_hotels" data-name="icon / graphic / hotels" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="icon" d="M28,19.04V16.026l-14.92.058H2V19.04A.981.981,0,0,1,1,20a.981.981,0,0,1-1-.96V.96A.981.981,0,0,1,1,0,.981.981,0,0,1,2,.96v13.2H12.077V6.18a.981.981,0,0,1,1-.961h6.632A10.52,10.52,0,0,1,26.96,8.1,9.71,9.71,0,0,1,30,15.043v4a1,1,0,0,1-2,0ZM3.9,9.347a2.943,2.943,0,0,1,3-2.882,2.941,2.941,0,0,1,3,2.882,2.942,2.942,0,0,1-3,2.882A2.943,2.943,0,0,1,3.9,9.347Z" transform="translate(5 10)"/>
+    </clipPath>
+    <filter id="colour" x="-15" y="-10" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#323c4c" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="icon_graphic_hotels_background" data-name="icon / graphic / hotels background" width="40" height="40" fill="rgba(255,255,255,0)"/>
+  <g id="Group_7" data-name="Group 7">
+    <path id="icon-2" data-name="icon" d="M28,19.04V16.026l-14.92.058H2V19.04A.981.981,0,0,1,1,20a.981.981,0,0,1-1-.96V.96A.981.981,0,0,1,1,0,.981.981,0,0,1,2,.96v13.2H12.077V6.18a.981.981,0,0,1,1-.961h6.632A10.52,10.52,0,0,1,26.96,8.1,9.71,9.71,0,0,1,30,15.043v4a1,1,0,0,1-2,0ZM3.9,9.347a2.943,2.943,0,0,1,3-2.882,2.941,2.941,0,0,1,3,2.882,2.942,2.942,0,0,1-3,2.882A2.943,2.943,0,0,1,3.9,9.347Z" transform="translate(5 10)"/>
+    <g id="Mask_Group_13" data-name="Mask Group 13" clip-path="url(#clip-path)">
+      <g id="colour-2" data-name="colour">
+        <rect id="panel_block_background" data-name="panel / block background" width="40" height="40" fill="none"/>
+        <g id="shadow">
+          <rect id="panel_shadow_background" data-name="panel / shadow background" width="40" height="40" fill="none"/>
+          <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#colour)">
+            <rect id="colour-3" data-name="colour" width="40" height="40" fill="#fff"/>
+          </g>
+        </g>
+        <g id="colour-4" data-name="colour">
+          <rect id="panel_colour_white_-_FFFFFF_background" data-name="panel / colour / white - FFFFFF background" width="40" height="40" fill="none"/>
+          <rect id="colour-5" data-name="colour" width="40" height="40" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg id="icon_graphic_flights" data-name="icon / graphic / flights" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="icon" d="M6.242,23.787.036,21.334l1.878-1.88,5.064.131L13.3,12.7,0,6.063,2.224,3.836,19.495,6.5,25.153.831A2.843,2.843,0,1,1,29.17,4.853l-5.658,5.665,2.9,17.049-2.42,2.423L17.319,16.717l-6.88,6.332.131,5.071L8.692,30Z" transform="translate(5 5)"/>
+    </clipPath>
+    <filter id="colour" x="-15" y="-10" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#323c4c" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="icon_graphic_flights_background" data-name="icon / graphic / flights background" width="40" height="40" fill="rgba(255,255,255,0)"/>
+  <g id="Group_8" data-name="Group 8">
+    <path id="icon-2" data-name="icon" d="M6.242,23.787.036,21.334l1.878-1.88,5.064.131L13.3,12.7,0,6.063,2.224,3.836,19.495,6.5,25.153.831A2.843,2.843,0,1,1,29.17,4.853l-5.658,5.665,2.9,17.049-2.42,2.423L17.319,16.717l-6.88,6.332.131,5.071L8.692,30Z" transform="translate(5 5)"/>
+    <g id="Mask_Group_14" data-name="Mask Group 14" clip-path="url(#clip-path)">
+      <g id="colour-2" data-name="colour">
+        <rect id="panel_block_background" data-name="panel / block background" width="40" height="40" fill="none"/>
+        <g id="shadow">
+          <rect id="panel_shadow_background" data-name="panel / shadow background" width="40" height="40" fill="none"/>
+          <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#colour)">
+            <rect id="colour-3" data-name="colour" width="40" height="40" fill="#fff"/>
+          </g>
+        </g>
+        <g id="colour-4" data-name="colour">
+          <rect id="panel_colour_white_-_FFFFFF_background" data-name="panel / colour / white - FFFFFF background" width="40" height="40" fill="none"/>
+          <rect id="colour-5" data-name="colour" width="40" height="40" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

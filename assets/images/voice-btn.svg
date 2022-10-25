@@ -1,0 +1,23 @@
+<svg id="btn_menu" data-name="btn menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="icon" d="M9,24V20.892A10.5,10.5,0,0,1,0,10.5V9H3v1.5a7.5,7.5,0,0,0,15,0V9h3v1.5a10.5,10.5,0,0,1-9,10.391V24ZM5.625,10.5V4.875a4.875,4.875,0,1,1,9.75,0V10.5a4.875,4.875,0,0,1-9.75,0Zm3-5.625V10.5a1.875,1.875,0,0,0,3.75,0V4.875a1.875,1.875,0,1,0-3.75,0Z" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <rect id="icon_base_background" data-name="icon / base background" width="50" height="50" fill="none"/>
+  <g id="icon-2" data-name="icon" transform="translate(5 5)">
+    <rect id="icon_graphic_speak_background" data-name="icon / graphic / speak background" width="40" height="40" fill="none"/>
+    <g id="Group_14" data-name="Group 14" transform="translate(10 8)">
+      <path id="icon-3" data-name="icon" d="M9,24V20.892A10.5,10.5,0,0,1,0,10.5V9H3v1.5a7.5,7.5,0,0,0,15,0V9h3v1.5a10.5,10.5,0,0,1-9,10.391V24ZM5.625,10.5V4.875a4.875,4.875,0,1,1,9.75,0V10.5a4.875,4.875,0,0,1-9.75,0Zm3-5.625V10.5a1.875,1.875,0,0,0,3.75,0V4.875a1.875,1.875,0,1,0-3.75,0Z" fill="#fff"/>
+      <g id="Mask_Group_20" data-name="Mask Group 20" clip-path="url(#clip-path)">
+        <g id="colour" transform="translate(-10 -8)">
+          <rect id="panel_block_background" data-name="panel / block background" width="40" height="40" fill="none"/>
+          <g id="colour-2" data-name="colour">
+            <rect id="panel_colour_mustard_-_D1851D_background" data-name="panel / colour / mustard - D1851D background" width="40" height="40" fill="none"/>
+            <rect id="colour-3" data-name="colour" width="40" height="40" fill="#d1851d"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

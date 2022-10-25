@@ -1,0 +1,33 @@
+<svg id="icon_graphic_holidays" data-name="icon / graphic / holidays" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="icon" d="M25.5,30H0c0-.866,2.276-1.559,4.186-1.989a33.006,33.006,0,0,1,5.429-.788h.322l6.45-16.29a20.736,20.736,0,0,0-6.134-1.168A12.675,12.675,0,0,1,13.9,5.13a17.1,17.1,0,0,1,8.089-3.048c3.1,2.824,3.614,7.569,1.337,12.383a20.686,20.686,0,0,0-4.845-2.745L12.416,27.282h3.273a35.234,35.234,0,0,1,5.527.759c1.954.417,4.283,1.1,4.285,1.958Zm4-10.754h0a11.891,11.891,0,0,0-1.384-1.438A8.783,8.783,0,0,0,25,15.865a15.057,15.057,0,0,0,0-11.9,14.414,14.414,0,0,1,5,11.446,12.976,12.976,0,0,1-.5,3.832ZM8.609,8.963h0a14.706,14.706,0,0,0-4.026-.807,2.484,2.484,0,0,0-.458.036c2.468-5.08,6.394-7.549,12-7.549a13.144,13.144,0,0,1,2.817.305c-5,1.5-8.382,4.124-10.333,8.015ZM20.981.917c-.419,0-.76-.206-.76-.458S20.562,0,20.981,0s.76.206.76.459S21.4.917,20.981.917Z" transform="translate(5 5)" fill="#fff"/>
+    </clipPath>
+    <filter id="colour" x="-15" y="-10" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#323c4c" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="icon_graphic_holidays_background" data-name="icon / graphic / holidays background" width="40" height="40" fill="rgba(255,255,255,0)"/>
+  <g id="Group_10" data-name="Group 10">
+    <path id="icon-2" data-name="icon" d="M25.5,30H0c0-.866,2.276-1.559,4.186-1.989a33.006,33.006,0,0,1,5.429-.788h.322l6.45-16.29a20.736,20.736,0,0,0-6.134-1.168A12.675,12.675,0,0,1,13.9,5.13a17.1,17.1,0,0,1,8.089-3.048c3.1,2.824,3.614,7.569,1.337,12.383a20.686,20.686,0,0,0-4.845-2.745L12.416,27.282h3.273a35.234,35.234,0,0,1,5.527.759c1.954.417,4.283,1.1,4.285,1.958Zm4-10.754h0a11.891,11.891,0,0,0-1.384-1.438A8.783,8.783,0,0,0,25,15.865a15.057,15.057,0,0,0,0-11.9,14.414,14.414,0,0,1,5,11.446,12.976,12.976,0,0,1-.5,3.832ZM8.609,8.963h0a14.706,14.706,0,0,0-4.026-.807,2.484,2.484,0,0,0-.458.036c2.468-5.08,6.394-7.549,12-7.549a13.144,13.144,0,0,1,2.817.305c-5,1.5-8.382,4.124-10.333,8.015ZM20.981.917c-.419,0-.76-.206-.76-.458S20.562,0,20.981,0s.76.206.76.459S21.4.917,20.981.917Z" transform="translate(5 5)" fill="#fff"/>
+    <g id="Mask_Group_16" data-name="Mask Group 16" clip-path="url(#clip-path)">
+      <g id="colour-2" data-name="colour">
+        <rect id="panel_block_background" data-name="panel / block background" width="40" height="40" fill="none"/>
+        <g id="shadow">
+          <rect id="panel_shadow_background" data-name="panel / shadow background" width="40" height="40" fill="none"/>
+          <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#colour)">
+            <rect id="colour-3" data-name="colour" width="40" height="40" fill="#fff"/>
+          </g>
+        </g>
+        <g id="colour-4" data-name="colour">
+          <rect id="panel_colour_white_-_FFFFFF_background" data-name="panel / colour / white - FFFFFF background" width="40" height="40" fill="none"/>
+          <rect id="colour-5" data-name="colour" width="40" height="40" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg id="btn_like" data-name="btn like" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="icon" d="M13.155,23.713l-.112-.1L2.2,12.74a7.426,7.426,0,0,1,0-10.552A7.544,7.544,0,0,1,7.265.006L7.574,0a7.58,7.58,0,0,1,5.137,1.963l.236.225L14,3.25,15.053,2.2A7.664,7.664,0,0,1,25.8,2.2a7.425,7.425,0,0,1,0,10.552L14.943,23.615a1.366,1.366,0,0,1-1.788.1Z" transform="translate(0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <rect id="icon_base_background" data-name="icon / base background" width="50" height="50" fill="none"/>
+  <g id="icon-2" data-name="icon" transform="translate(5 5)">
+    <rect id="icon_graphic_heart_outline_background" data-name="icon / graphic / heart outline background" width="40" height="40" fill="none"/>
+    <g id="Group_11" data-name="Group 11" transform="translate(6 8)">
+      <path id="icon-3" data-name="icon" d="M13.155,23.713l-.112-.1L2.2,12.74a7.426,7.426,0,0,1,0-10.552A7.544,7.544,0,0,1,7.265.006L7.574,0a7.58,7.58,0,0,1,5.137,1.963l.236.225L14,3.25,15.053,2.2A7.664,7.664,0,0,1,25.8,2.2a7.425,7.425,0,0,1,0,10.552L14.943,23.615a1.366,1.366,0,0,1-1.788.1Z" transform="translate(0)" fill="#fff"/>
+      <g id="Mask_Group_17" data-name="Mask Group 17" clip-path="url(#clip-path)">
+        <g id="colour" transform="translate(-6 -8)">
+          <rect id="panel_block_background" data-name="panel / block background" width="40" height="40" fill="none"/>
+          <g id="colour-2" data-name="colour">
+            <rect id="panel_colour_navy_-_282E46_background" data-name="panel / colour / navy - 282E46 background" width="40" height="40" fill="none"/>
+            <rect id="colour-3" data-name="colour" width="40" height="40" fill="#393d4d"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
